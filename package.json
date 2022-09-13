@@ -1,7 +1,6 @@
 {
   "name": "fennel",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.3.0"
-  }
+    "@discordjs/rest": "^1.1.0",
+    "discord.js": "^14.3.0",
+    "jquery": "^3.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sola8/PCL-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sola8/PCL-Bot/issues"
+  },
+  "homepage": "https://github.com/sola8/PCL-Bot#readme",
+  "description": ""
 }
